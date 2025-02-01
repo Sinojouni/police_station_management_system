@@ -16,8 +16,13 @@ The **Police Station Management System** is a Windows Forms application develope
 - **Entity Framework** (ORM for database operations)
 - **SQL Server** (Database)
 
-## Installation Guide
-### Prerequisites:
+## Prerequisites:
 - **Visual Studio** (Latest version with .NET Framework support)
 - **SQL Server** (Express or Full version)
 - **.NET Framework** (Ensure proper version installed)
+  
+## screenshot
+![Weather Chart](Resources/1.png)
+![Weather Chart](Resources/2.png)
+![Weather Chart](Resources/3.png)
+![Weather Chart](Resources/4.png)
