@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ach5as.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ad5al.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="finger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="other.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="syarat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="word2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
